@@ -11,7 +11,7 @@ Project Title : Foodie
 
 Primary Azure Technology : Static Web Apps
 
-Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
+Static Web App URL : https://blue-moss-029813110.2.azurestaticapps.net
 
 ## Home
 ![Screenshot_20221030_085309](https://user-images.githubusercontent.com/116788532/198887078-f7b0daee-f276-4ad4-a839-944f63bb7670.png)
