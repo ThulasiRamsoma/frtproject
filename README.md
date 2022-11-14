@@ -1,4 +1,4 @@
-## frtproject:uture Ready Talent Project By Thulasi
+## frtproject: Future Ready Talent Project By Thulasi
 
 Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure.
 
